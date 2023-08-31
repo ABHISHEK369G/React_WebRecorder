@@ -1,7 +1,15 @@
 
 # RECT WEB RECORDER 
 
-A brief description of what this project does and who it's for
+
+## Features
+
+- Record the screen with Webcam and Audio
+- Recording preview
+- User can download the Recorded Video
+- Login,Logout using JWT
+
+
 
 
 ## Environment Variables
