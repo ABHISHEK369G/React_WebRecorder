@@ -1,5 +1,5 @@
 
-# RECT WEB RECORDER 
+# REACT WEB RECORDER 
 
 
 ## Features
